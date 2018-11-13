@@ -1,29 +1,7 @@
-# my-app
+# Vue seed app
+Based on Vue CLI 3.
 
-## Project setup
+## Setup
 ```
-yarn install
+vue create my-app
 ```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
